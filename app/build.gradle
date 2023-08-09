@@ -51,5 +51,6 @@ dependencies {
 
     //sdp
     implementation 'com.intuit.sdp:sdp-android:1.1.0'
+    implementation("com.google.android.gms:play-services-auth:20.6.0")
 
 }
