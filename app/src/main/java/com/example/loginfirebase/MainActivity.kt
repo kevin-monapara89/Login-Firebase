@@ -69,10 +69,6 @@ class MainActivity : AppCompatActivity() {
             startActivityForResult(intent, 100)
         } as View.OnClickListener)
 
-
-
-
-
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, @Nullable data: Intent?) {
